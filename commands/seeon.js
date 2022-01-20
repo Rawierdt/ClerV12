@@ -5,7 +5,7 @@ module.exports.run = async(client, message, args) => {
     let servers = filtro.map(g => '`'+g.name+'`').join(', ') 
     let tamaño = filtro.size  // Verificamos el número de servidores filtrados.
         if (filtro <= 1) return message.channel.send('`?>` Sin resultados.');
-    const embed = new MessageEmbed()
+    const embed = new Discord.MessageEmbed()
         .setTitle('Servidores en común con '+usuario.tag)
         .setDescription(servers)
         .setColor("RANDOM")
