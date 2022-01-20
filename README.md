@@ -1,6 +1,8 @@
 ![Cler](/clerlogo.gif)
 
 # About Cler | Acerca de Cler
+
+[Invite Cler on your server](https://discord.com/oauth2/authorize?client_id=774150617546883073&permissions=8&scope=bot)
 * |Warning| Spanish discord bot, code in node.js / discord.js, but it is easy to learn each command.
 Please report any issue or bug.
 DM to: @NexDrak ( ╥ω╥ )
