@@ -1,0 +1,38 @@
+{
+  "name": "ClearCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LwnaDev",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "akaneko": "^4.1.1",
+    "axios": "^0.24.0",
+    "discord-buttons": "^4.0.0",
+    "discord-tts": "^1.2.1",
+    "discord.js": "^12.4.1",
+    "discordimgs": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "figlet": "^1.5.0",
+    "imageapi.js": "^1.7.0",
+    "marsnpm": "^0.5.1",
+    "mech-aki": "^0.1.4",
+    "megadb": "^3.4.0",
+    "megadb.json": "0.0.1",
+    "node-fetch": "^2.6.1",
+    "opusscript": "0.0.8",
+    "request": "^2.88.2",
+    "star-labs": "^1.1.2",
+    "tenor-fetch": "^1.0.2",
+    "typescript": "^4.0.5",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^4.9.1"
+  }
+}
