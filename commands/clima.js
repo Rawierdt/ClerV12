@@ -7,7 +7,6 @@ let dev = (process.env.DEV)
 module.exports.run = async(client, message, args) => {
     weather.find({search: args.join(' '), degreeType: 'C'}, function(err, result) {
         if (args.length < 1) return message.channel.send(":x: | ¡Debes ingresar una localización válida!")
-                nd(":x: | ¡Debes ingresar una localización válida!")
         var current = result[0].current;
         var location = result[0].location;
         const embed = new Discord.MessageEmbed()
