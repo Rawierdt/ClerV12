@@ -1,4 +1,4 @@
-![Cler](https://i.ibb.co/3h4PkHZ/clerbgred.gif)
+![Cler](/clerlogo.gif)
 
 # About Cler | Acerca de Cler
 * |Warning| Spanish discord bot, code in node.js / discord.js, but it is easy to learn each command.
