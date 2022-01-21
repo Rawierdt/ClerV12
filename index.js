@@ -12,7 +12,7 @@ const express = require('express')
 const app = express();
 
 app.get('/', function (req, res) {
-  res.send('<body style="background-color:1a1b1d;"> <img src="https://i.ibb.co/hmt7SCC/clermonitorgif.gif"></body>')
+  res.send('<body style="background-color:1a1b1d;"> <img src="https://i.ibb.co/TMZq2nK/monitorcler.gif"></body>')
 })
 let port = process.env.PORT || 3000;
 app.listen(port)
