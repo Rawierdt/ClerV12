@@ -47,7 +47,7 @@ function presence(){
       }})}
 
 client.on('ready', () => {
-  console.log('Cler En Linea :D!');
+  console.log('Cler Esta Ahora En Linea :D!');
   presence();
 })
 
